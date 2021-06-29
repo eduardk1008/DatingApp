@@ -42,6 +42,6 @@ testem.log
 
 # System Files
 .DS_Store
-Thumbs.dbgit 
+Thumbs.dbgit
 
-ssl
+/ssl
